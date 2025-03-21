@@ -10,7 +10,7 @@ class PostsPage extends StatelessWidget {
       backgroundColor: Colors.blue[50],
       body: Center(
         child: Container(
-          padding: EdgeInsets.all(20),
+          padding: EdgeInsets.all(0),
           margin: EdgeInsets.symmetric(vertical: 30),
           constraints: BoxConstraints(maxWidth: 800),
           decoration: BoxDecoration(

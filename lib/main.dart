@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (_) => PostBloc(getIt<GetPosts>(),getIt<CreatePosts>(),getIt<UpdatePosts>(),getIt<DeletePosts>())..add(LoadPosts()),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: PostsPage(),
       ),
     );

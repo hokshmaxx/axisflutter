@@ -17,6 +17,10 @@ It follows the **Domain-Driven Design (DDD)** approach and integrates with an **
 ![Create Post](imgs/createweb.png)
 ![Update Post](imgs/updateweb.png)
 ![Delete Post](imgs/deleteweb.png)
+![Home Screen](imgs/homemobile.jpeg)
+![Create Post](imgs/createmobile.jpeg)
+![Update Post](imgs/updatemobile.jpeg)
+![Delete Post](imgs/deletemobile.jpeg)
 
 ## Installation
 
